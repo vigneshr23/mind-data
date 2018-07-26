@@ -29,7 +29,11 @@
     "TotalUpVotes": "3867",
     "TotalDownVotes": "792",
     "NetWorth": "3.2M",
-    "MostPopularPost": "2",
+    "MostPopularPost": {
+      "id": "2",
+      "title": "My thoughts on Python: It's here to Stay.",
+      "reliability": "5"
+    },
     "ReliabilityRating": "78%",
     "GenericPoll": "false",
     "DevicesActive": [
