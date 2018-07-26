@@ -1,25 +1,29 @@
 {
-  "Profile": [{
-    "Autor": "Vignesh",
-    "Alias": "dev-_-bot",
-    "role": "Web Developer",
-    "isValid": "true"
-  }],
-  "Posts": [{
-    "id": "1",
-    "title": "My first dev experience",
-    "reliability": "4"
+  "Profile": [
+    {
+      "Autor": "Vignesh",
+      "Alias": "dev-_-bot",
+      "role": "Web Developer",
+      "isValid": "true"
+    }
+  ],
+  "Posts": [
+    {
+      "id": "1",
+      "title": "My first dev experience",
+      "reliability": "4"
     },
     {
       "id": "2",
-      "title": "My thoughts on Python: It\'s here to Stay.",
+      "title": "My thoughts on Python: It's here to Stay.",
       "reliability": "5"
     },
     {
       "id": "3",
-      "title": "Node.Js is an amazing tool - Don\'t wait too long before you explore it.",
-      "reliability": "3"        
-    }],
+      "title": "Node.Js is an amazing tool - Don't wait too long before you explore it.",
+      "reliability": "3"
+    }
+  ],
   "extras": {
     "TotalVisits": "74396",
     "TotalUpVotes": "3867",
@@ -28,7 +32,28 @@
     "MostPopularPost": "2",
     "ReliabilityRating": "78%",
     "GenericPoll": "false",
-    "DevicesActive": [{"PC":"true"},{"Mac":"false"},{"iPhone":"true"},{"secondaryPhone":"true"},{"twitter":"true"},{"facebook":"false"},{"instagram":"false"}]
+    "DevicesActive": [
+      {
+        "PC": "true"
+      },
+      {
+        "Mac": "false"
+      },
+      {
+        "iPhone": "true"
+      },
+      {
+        "secondaryPhone": "true"
+      },
+      {
+        "twitter": "true"
+      },
+      {
+        "facebook": "false"
+      },
+      {
+        "instagram": "false"
+      }
+    ]
   }
-  
 }
